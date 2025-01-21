@@ -23,7 +23,7 @@ const AddTasks = () => {
                 />
 
                 <button type='submit'
-                    className='mt-4 w-full bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700'>
+                    className='mt-4 w-full bg-gradient-to-r from-blue-400 to-blue-600 text-white py-2 px-4 rounded hover:from-blue-500 hover:to-blue-700 hover:shadow-lg transition duration-300'>
                     Add Task
                 </button>
             </form>
