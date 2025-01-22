@@ -54,6 +54,7 @@ QuickList is a simple and intuitive task management application built using Reac
 - Editor: Visual Studio Code (VS Code) for development
 
 
-  **How to Run the Project**
+
+**How to Run the Project**
   
-    npm run dev
+  npm run dev
