@@ -54,21 +54,6 @@ QuickList is a simple and intuitive task management application built using Reac
 - Editor: Visual Studio Code (VS Code) for development
 
 
-**File Structure**
-
-/src
-  /components
-    AddTasks.jsx          // Component for adding new tasks
-    Heading.jsx           // Component for the app’s header
-    ListTasks.jsx         // Component for displaying active and completed tasks
-  /context
-    taskContext.jsx       // Context for managing tasks and state
-  /swals
-    EditTaskModal.jsx     // Modal for editing tasks
-    DeleteConfirmModal.jsx// Modal for delete confirmation
-  App.js                 // Main app component
-
-
   **How to Run the Project**
   
-    **npm run dev**
+    npm run dev
